@@ -117,8 +117,6 @@ User-agent: Sogou web spider
 User-agent: SputnikBot
 # ask.com international search engine
 User-agent: Teoma
-# twitter.com bot
-User-agent: Twitterbot
 # wotbox.com international search engine
 User-agent: wotbox
 # yacy.net p2p search software
